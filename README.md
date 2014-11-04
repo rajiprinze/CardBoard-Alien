@@ -1,8 +1,7 @@
 CardBoard-Alien
 ===============
 
-This is a new start up App project that is happening
-
+This is a new start up App project that is happening;
 
 Steps : 
 
@@ -19,3 +18,6 @@ Steps :
       option in one app. 
   3] Language has always been a common interest between us. So maybe we could go back to out old ideas of language and
       and interactive learning device, or something like that. Haha. 
+      
+  4] Build a more user friendly app to create mods or mod templates for Minecraft. So that users can select basic mods to use from a templte and edit them. 
+      
