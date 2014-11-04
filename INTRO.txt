@@ -1,0 +1,18 @@
+These are some point to cover for out first meeting today :
+
+
+11/03/2014 :
+
+1] METHOD :  First outline would be to discuss the planning strategy of out overall project. Such at what method we will track out development. I suggest using the Agile Software Development Method. 
+
+2] TOOL :  Also a utility to use to track out progress could be Uzility.com ( or something like that). Where we can further practice out Agile Development method and assign tasks and dealines to each team member. Aka the three of us. haha. 
+
+3] STEPS : Like github used for source control, uzility used to track what our members are doing. We would need to get an and I can figure out how to invite team members and assign specific tasks to them 
+
+4] Another option can be maintaining as logging a file in Github or some method similar so that we would not have to use a complete different website. 
+
+5] Choose which Project we would like to to. So far there were two idea, maybe consider and add more or choose between the existing ones. 
+
+6] Work out design and start implemetation. If using Agile come together every two weeks for a meeting and track changes, comments, bugs/fixes that need to happen. 
+
+7] ANYTHING ELSE THAT MY BRAIN HAS COMPLETELY FORGOT TO MENTION.
