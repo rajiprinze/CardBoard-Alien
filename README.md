@@ -16,7 +16,8 @@ Steps :
       When they make a post we can allow the options of where to post them, and groups to post to and many other options. 
       There are similar apps like this, but none really that cater to this specific action. Might be useful to have that
       option in one app. 
-  3] Language has always been a common interest between us. So maybe we could go back to out old ideas of language and
+      
+  3] Language has always been a common interest between us. So maybe we could go back to our old ideas of language and
       and interactive learning device, or something like that. Haha. 
       
   4] Build a more user friendly app to create mods or mod templates for Minecraft. So that users can select basic mods to use from a templte and edit them. 
