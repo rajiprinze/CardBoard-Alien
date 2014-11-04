@@ -21,4 +21,6 @@ Steps :
       and interactive learning device, or something like that. Haha. 
       
   4] Build a more user friendly app to create mods or mod templates for Minecraft. So that users can select basic mods to use from a templte and edit them. 
+  
+  5] Study tool, add your own vocab words. Game to learn vocabulary in differences, aka, so far spanish, french, tamil, english. 
       
